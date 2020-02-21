@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="PlaceMarkDemo.MainPage"
+             BackgroundColor="Bisque">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="nameLabel" Text="Name:" Grid.Row="0" Grid.Column="0"/>
+        <Entry x:Name="nameEntry" Keyboard="Text" Placeholder="Enter a name" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+        <Label x:Name="countryNameLabel" Text="Country:" Grid.Row="1" Grid.Column="0"/>
+        <Picker x:Name="countryNamePicker" Title="Pick a country" VerticalOptions="CenterAndExpand" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+        <Label x:Name="adminAreaLabel" Text="State(2 Letters):" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"/>
+        <Entry x:Name="adminAreaEntry" Placeholder="Enter a state" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+        <Label x:Name="throughFareLabel" Text="Street Address:" Grid.Row="3" Grid.Column="0"/>
+        <Entry x:Name="throughFareEntry" Placeholder="Enter a street address" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+        <Label x:Name="localityLabel" Text="Locality:" Grid.Row="4" Grid.Column="0"/>
+        <Entry x:Name="localityEntry" Placeholder="Enter a county" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3"/>
+
+
+
+        <Button x:Name="mapButton" Text="Map"  Clicked="mapButton_Clicked" Grid.Row="5" Grid.Column="0"/>
+        <Button x:Name="mapDriving" Text="Driving Map" Clicked="mapDriving_Clicked" Grid.Row="5" Grid.Column="1"/>
+        <Button x:Name="mapWalking" Text="Walking Map" Clicked="mapWalking_Clicked" Grid.Row="5" Grid.Column="2"/>
+
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\bin\Debug\netstandard2.0\PlaceMarkDemo.deps.json
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\bin\Debug\netstandard2.0\PlaceMarkDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\bin\Debug\netstandard2.0\ref\PlaceMarkDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\bin\Debug\netstandard2.0\PlaceMarkDemo.pdb
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\PlaceMarkDemo.AssemblyInfoInputs.cache
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\PlaceMarkDemo.AssemblyInfo.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\PlaceMarkDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\ref\PlaceMarkDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\PlaceMarkDemo.pdb
+C:\Users\Harsh Mathur\source\repos\MapDemo\PlaceMarkDemo\PlaceMarkDemo\obj\Debug\netstandard2.0\PlaceMarkDemo.csprojAssemblyReference.cache
