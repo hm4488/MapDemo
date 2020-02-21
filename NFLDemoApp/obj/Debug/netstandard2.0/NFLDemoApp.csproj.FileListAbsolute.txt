@@ -1,0 +1,13 @@
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\bin\Debug\netstandard2.0\NFLDemoApp.deps.json
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\bin\Debug\netstandard2.0\NFLDemoApp.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\bin\Debug\netstandard2.0\ref\NFLDemoApp.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\bin\Debug\netstandard2.0\NFLDemoApp.pdb
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\NFLDemoApp.csprojAssemblyReference.cache
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\NFLDemoApp.AssemblyInfoInputs.cache
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\NFLDemoApp.AssemblyInfo.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\NFLDemoApp.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\ref\NFLDemoApp.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\NFLDemoApp\NFLDemoApp\obj\Debug\netstandard2.0\NFLDemoApp.pdb
