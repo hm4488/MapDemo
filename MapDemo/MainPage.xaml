@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MapDemo.MainPage"
+             BackgroundColor="LightGoldenrodYellow">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="nameLabel" Text="Name" Grid.Row="0" Grid.Column="0"/>
+        <Entry x:Name="nameEntry" Keyboard="Text" Placeholder="Enter a name" Grid.Row="0" Grid.Column="1"/>
+
+        <Label x:Name="latitudeLabel" Text="Latitude" Grid.Row="1" Grid.Column="0"/>
+        <Entry x:Name="latitudeEntry" Keyboard="Numeric" Placeholder="Enter a latitude" Grid.Row="1" Grid.Column="1"/>
+
+        <Label x:Name="longitudeLabel" Text="Longitude" Grid.Row="2" Grid.Column="0"/>
+        <Entry x:Name="longitudeEntry" Placeholder="Enter a longitude" Grid.Row="2" Grid.Column="1"/>
+
+        <Button x:Name="mapButton" Text="Map"  Clicked="mapButton_Clicked" Grid.Row="3" Grid.Column="0"/>
+        <Button x:Name="mapDriving" Text="Driving Map" Clicked="mapDriving_Clicked" Grid.Row="3" Grid.Column="1"/>
+        <Button x:Name="mapWalking" Text="Walking Map" Clicked="mapWalking_Clicked" Grid.Row="3" Grid.Column="2"/>
+
+    </Grid>
+
+</ContentPage>

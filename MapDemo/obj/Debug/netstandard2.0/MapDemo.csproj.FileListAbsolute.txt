@@ -1,0 +1,13 @@
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\bin\Debug\netstandard2.0\MapDemo.deps.json
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\bin\Debug\netstandard2.0\MapDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\bin\Debug\netstandard2.0\ref\MapDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\bin\Debug\netstandard2.0\MapDemo.pdb
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MapDemo.csprojAssemblyReference.cache
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MapDemo.AssemblyInfoInputs.cache
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MapDemo.AssemblyInfo.cs
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MapDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\ref\MapDemo.dll
+C:\Users\Harsh Mathur\source\repos\MapDemo\MapDemo\MapDemo\obj\Debug\netstandard2.0\MapDemo.pdb
